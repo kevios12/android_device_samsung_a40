@@ -1,0 +1,17 @@
+
+[
+    {
+        "repository": "android_device_samsung_universal7885-common",
+        "target_path": "device/samsung/universal7885-common"
+    }
+]
+[
+    {
+        "repository": "android_hardware_samsung",
+        "target_path": "hardware/samsung"
+    },
+    {
+        "repository": "android_kernel_samsung_universal7904",
+        "target_path": "kernel/samsung/universal7904"
+    }
+]
