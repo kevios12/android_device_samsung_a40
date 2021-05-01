@@ -38,7 +38,7 @@ PRODUCT_PACKAGES += \
     audio.a2dp.default
     
 # Call proprietary blob setup
-$(call inherit-product-if-exists, a40-vendor.mk)
+$(call inherit-product-if-exists, device/samsung/a40/a40-vendor.mk)
 
 # Screen density
 PRODUCT_AAPT_CONFIG := normal
